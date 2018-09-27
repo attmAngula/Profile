@@ -1,10 +1,7 @@
 Resources
 
-1. To resize images:
-		- http://resizeimage.net/
-2. Code Minifier:
-		- https://www.browserling.com/tools/css-minify
-3. To make icon:
-		- http://icoconvert.com/
+1. To resize images: http://resizeimage.net/
+2. Code Minifier: https://www.browserling.com/tools/css-minify
+3. To make icon: http://icoconvert.com/
 
 Uploading to github
